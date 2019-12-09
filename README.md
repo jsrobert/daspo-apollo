@@ -1,14 +1,12 @@
-# Gatsby-Apollo-Starter
+# Daspo-Apollo
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e2bfca08-a76e-43ab-864f-751f34592c3a/deploy-status)](https://app.netlify.com/sites/gatsby-apollo-starter/deploys)
 
-## Features
+## Tech
 
 - Apollo provider & Client side routing
 - Eslint/Prettier configured
-- Easy to customize
-- Nice project structure
-- Flex Grid components easy to customize
+- Flex Grid components 
 
 ## Prerequisites
 
@@ -49,10 +47,11 @@ yarn reset
 ## Built with
 
 - Gatsby
-- React & GraphQL
+- React
+- GraphQL
 - Apollo
 - VSCode
-- And these useful of JavaScript libraries & Gatsby plugins [package.json](package.json)
+-JavaScript libraries & Gatsby plugins [package.json](package.json)
 
 ## License
 
@@ -60,10 +59,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contributors
 
-- [Myself](https://smakosh.com)
+- [Myself](https://github.com/jsrobert/)
 
-## Support
 
-If you love this Gatsby template and want to support me, you can do so through my Patreon
-
-[![Support me on Patreon](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/smakosh)
